@@ -1,0 +1,54 @@
+  
+.jumbtron{
+background-color:grey;
+
+}
+h1{
+   
+   
+    text-align: center;
+   
+}
+#me{
+  text-align: center;
+}
+#med{
+  text-align: center;
+}
+
+
+.panel{
+  background-color:linen;
+}
+#regi{
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+
+
+}
+#acount p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+}
+
+#ima{
+  text-align: center;
+  
+
+  border-radius: 4%;
+}
+    
+
+.well{
+    background-color: bisque;
+}
+.container1{
+  display: none;
+}
+#Account{
+text-align: center;
+}
+body{
+  background-color: darkolivegreen;
+}
